@@ -1,2 +1,12 @@
-# Godot-2D-platformer-game
-A fun and addictive arcade platformer where you guide a jumping frog through challenging levels filled with obstacles, collectibles, and tricky timing. Test your reflexes, master precise jumps, and reach the finish line while avoiding hazards in this fast-paced adventure.
+# 2D Platformer Game (Godot)
+A 2D platformer built using the Godot Engine, focusing on core gameplay mechanics like player movement, collision handling, health systems, and collectibles.
+
+---
+
+##🚀 Features
+--🕹️ Smooth player movement (run, jump, gravity)
+--❤️ Health system with damage handling
+--💎 Collectibles with score tracking
+--⏸️ Pause menu system
+--⚙️ Basic game state management (game over logic)
+--🎨 UI implementation using CanvasLayer
