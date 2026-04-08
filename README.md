@@ -4,9 +4,9 @@ A 2D platformer built using the Godot Engine, focusing on core gameplay mechanic
 ---
 
 ##🚀 Features
---🕹️ Smooth player movement (run, jump, gravity)
---❤️ Health system with damage handling
---💎 Collectibles with score tracking
---⏸️ Pause menu system
---⚙️ Basic game state management (game over logic)
---🎨 UI implementation using CanvasLayer
+ - 🕹️ Smooth player movement (run, jump, gravity)
+ - ❤️ Health system with damage handling
+ - 💎 Collectibles with score tracking
+ - ⏸️ Pause menu system
+ - ⚙️ Basic game state management (game over logic)
+ - 🎨 UI implementation using CanvasLayer
